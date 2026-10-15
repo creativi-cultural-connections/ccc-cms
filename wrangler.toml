@@ -1,3 +1,6 @@
 name = "ccc-cms"
 main = "src/index.js"
 compatibility_date = "2023-03-24"
+[vars]
+ALLOWED_DOMAINS = "creativiconnections.com, *.creativiconnections.com, *.pages.dev"
+GITHUB_CLIENT_ID = "<il Client ID>"
